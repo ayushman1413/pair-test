@@ -13,3 +13,6 @@ Co-authored-by: ChatGPT "komal249271"
 
 this pair tet commit for achieve the badges ;
 
+#Pair test Reposetory 
+
+make a  pull request
